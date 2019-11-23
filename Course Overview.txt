@@ -1,0 +1,15 @@
+-> Syntax + Features
+1-Understanding basic types in TS
+
+2- Function typing + annotations
+
+3- Type definition files
+
+4- Arrays in TS
+
+5- Module systems
+
+6- Classes + Refresher on OOP
+
+-> Design Patterns
+7- Projects
